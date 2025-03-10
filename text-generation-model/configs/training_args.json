@@ -1,0 +1,15 @@
+
+{
+  "learning_rate": 0.001,
+  "batch_size": 32,
+  "num_epochs": 10,
+  "optimizer": "adam",
+  "weight_decay": 0.01,
+  "gradient_accumulation_steps": 1,
+  "max_grad_norm": 1.0,
+  "logging_steps": 100,
+  "save_steps": 500,
+  "evaluation_steps": 500,
+  "seed": 42,
+  "model_name": "gpt2"  
+}
