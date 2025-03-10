@@ -1,5 +1,8 @@
 # Title: PblockerAI
 
+
+# ⚠ This project is still in developement do not fork it yet
+
 ## Overview
 
 This project implements a text generation AI model using state-of-the-art techniques in natural language processing. The model is designed to generate coherent and contextually relevant text based on the input it receives.
